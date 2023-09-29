@@ -2,6 +2,9 @@
 
 # How to Activate WinRAR
 
+
+
+
 ## Introduction
 
 WinRAR is a popular compression tool that allows you to create, manage, and extract compressed files. While it offers a free trial, you may want to activate WinRAR for full access to its features. This guide will walk you through the process of activating WinRAR.
@@ -53,6 +56,14 @@ aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 If you see the word "Registered" or "Licensed" in the About WinRAR window, congratulations! WinRAR is now activated.
 
 ![image](https://github.com/kamrullab/WinRAR/assets/128359757/900e99bb-b2a5-4156-a35f-8d9a9bb40b39)
+
+
+## Download Registration Data 
+
+
+If you need to download the `rarreg.key` file, you can do so <br> by clicking the following link: [Download rarreg.key](https://github.com/kamrullab/WinRAR/blob/main/rarreg.key)
+
+![image](https://github.com/kamrullab/WinRAR/assets/128359757/17792998-79a8-4ce2-a03c-7c791f3787e8) <br>
 
 ## Important Notes
 
